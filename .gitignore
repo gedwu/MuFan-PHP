@@ -1,0 +1,7 @@
+/.idea
+/nbproject
+.vscode/*
+*.sublime-project
+*.sublime-workspace
+.project
+errors.log
